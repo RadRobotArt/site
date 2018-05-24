@@ -3,14 +3,21 @@ permalink: /about/
 layout: page
 title: Meet the Rad Robot Team!
 ---
-## Rad Robot Himself!
+<br/>
+
+Rad Robot Himself!
+==================
 
 Bio will go here!
 
-## Lee!
+
+Lee!
+======
 
 Bio will go here!
 
-## Paul!
+
+Paul!
+======
 
 Bio will go here!
