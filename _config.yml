@@ -8,11 +8,11 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Rad Robot"
+title: "Rad Robot Art"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Artttttt"
+slogan: "Art, Illustrations, Classes!"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -24,7 +24,7 @@ author: chris
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://chri55.github.io/test'
+url: 'https://radrobotart.github.io/site'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content

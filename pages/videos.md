@@ -2,7 +2,6 @@
 permalink: /videos/
 layout: page
 title: "Latest Videos"
-sidebar: right
 # Images added to this page will be from ~/images/comics
 ---
 We show the latest youtube video from the channel here. Below we probably include some fun link to the youtube channel.
